@@ -1,0 +1,7 @@
+{
+  "name": "fez-intro",
+  "version": "0.1.0",
+  "scripts": {
+    "build": "./tools/build.sh"
+  }
+}
